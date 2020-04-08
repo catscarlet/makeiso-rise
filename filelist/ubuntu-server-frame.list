@@ -1,0 +1,10 @@
+boot
+.disk
+dists
+doc
+EFI
+install
+md5sum.txt
+pics
+pool
+README.diskdefines
